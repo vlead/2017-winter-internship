@@ -1,0 +1,60 @@
+#+TITLE: Winter Internship at VLEAD, IIIT Hyderabad
+#+AUTHOR: VLEAD
+#+DATE: [2017-11-16 Thu]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  Winter 2017 internship program is envisaged to realize =Virtual Labs= related
+  features.
+
+* Offer letter Draft
+                                          Date:16/11/2017.
+To,
+Intern name,
+Institute name.
+
+I am pleased to offer you Winter Internship at Virtual Labs
+Engineering and Architecture Division[VLEAD], International Institute
+of Information Technology Hyderabad.  As a part of the internship, you
+are expected to work in an assigned VLEAD project.
+
+Please make note of the following terms and conditions for the
+internship program :
+
+Duration : 27th November 2017 to 23 December 2017
+
+Working days : Monday to Saturday
+
+Working hours : 9:00 A.M to 6:00 P.M
+
+Attendance : You will be following the IIIT-H Holidays only and you
+are not allowed to take any leave.
+
+Remuneration : As part of internship, you will be paid an amount of
+Rs.15,000/- per month towards hostel and mess expenses.
+
+Accommodation : You will need to coordinate with IIITH hostel admin
+for your stay at the IIIT-H hostel.
+
+Certificate : You will be awarded a certificate only on the successful
+completion of your assigned work.
+
+
+Please sign a duplicate copy of this letter acknowledging that you
+have read all the terms and conditions and return it as a token of
+your acceptance by 20th Nov 2017.
+	
+	
+	
+
+* [[./on-boarding.org][On-boarding]]
+* [[./projects.org][Projects]]
+* [[./mapping.org][Mapping of projects to Interns]]
+
+* [[./work-logs/index.org][Work Logs]]
+* [[./mentor-instructions.org][Mentor Instructions]]
+
+

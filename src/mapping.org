@@ -1,0 +1,16 @@
+#+TITLE: Mapping of Projects to Interns
+#+AUTHOR: VLEAD
+#+DATE: [2017-11-16 Thu]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  Mapping between interns and projects is laid out.
+
+|-----+----+------+---------+--------+------------|
+| No. | Id | Proj | Interns | Mentor | Repository |
+|-----+----+------+---------+--------+------------|
+|     |    |      |         |        |            |
+* Unmapped
