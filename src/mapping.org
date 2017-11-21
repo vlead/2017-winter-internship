@@ -9,8 +9,20 @@
 * Introduction
   Mapping between interns and projects is laid out.
 
-|-----+----+------+---------+--------+------------|
-| No. | Id | Proj | Interns | Mentor | Repository |
-|-----+----+------+---------+--------+------------|
-|     |    |      |         |        |            |
+|-----+----+-------------------------------------+---------+--------+------------|
+| No. | Id | Proj                                | Interns | Mentor | Repository |
+|-----+----+-------------------------------------+---------+--------+------------|
+|   1 |    | FOSS conversion  (2)                |         |        |            |
+|   2 |    | College Cloud + Virtualization  (1) |         |        |            |
+|   3 |    | Fixing Security Bugs ( 2)           |         |        |            |
+|   4 |    | Lab authoring (1)                   |         |        |            |
+|   5 |    | SLR                                 |         |        |            |
+|   6 |    | Data Structures (1)                 |         |        |            |
+|   7 |    | Linux Lab (1)                       |         |        |            |
+|   8 |    | VR Lab ( GSoC Project )             |         |        |            |
+|   9 |    | SSAD project (Platform + Authoring) |         |        |            |
+|  10 |    | SSAD Project ( Single Sign on )     |         |        |            |
+|  11 |    | POPL                                |         |        |            |
+|-----+----+-------------------------------------+---------+--------+------------|
+
 * Unmapped
