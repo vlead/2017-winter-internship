@@ -7,7 +7,7 @@
 #+OPTIONS: ^:nil
 
 
-* Things to Do before [2017-06-01 Thu]
+* Things to Do before [2017-11-25 Sat]
 
   1. Work on both the parts - A & B - of [[http://pascal.iiit.ac.in/~itws2/docs/current-topics/lab-exam/instructions.html][final exam]].  On the first day of the
      internship you should show us that all your test cases run.
@@ -48,16 +48,16 @@
 
    2. You have to get your work-log approved from your mentor on a weekly
       basis. You will also need to submit your approved work-log to
-      ravi.kiran@vlabs.ac.in . Your stipend will be released against this
+      ravi.kiran@vlabs.ac.in.Your stipend will be released against this
       submission only.
 
 ** Presentations
   1. All Friday afternoons will be reserved for a short presentation (5-10
      mins) by the interns on their project and progress.
   
-  2. A final presentation (with links to relevant documents) will need to be
-     made during the week of 13th July to 20th July 2017 against which the
-     internship certificate will be issued.
+  2. A final presentation (with links to relevant documents) will need
+     to be made during the week of 20th December to 23rd December 2017
+     against which the internship certificate will be issued.
 ** IRC Channel
   Please login to IRC channel #vlead on freenode.  Hexchat is an IRC client
   that is used at VLEAD.  =apt-get install hexchat= should allow you to install
