@@ -35,7 +35,7 @@
 
 ** Working Hours
    Your working hours for the internship period is from 9:00 A.M to 6:00P.M
-   (Monday - Saturday).
+   (Monday - Friday).
 
 ** Leave Policy
    You are elgible to take IIIT H holidays only.You are not allowed
@@ -43,7 +43,7 @@
 
 ** Work Logs
    1. Work logs to be committed at the end of every day.  Create a file
-      =first-name.org= in the =work-logs= directory and fill in the details.
+      =first-name.org= in the work-logs directory and fill in the details.
       Please use =sample.org= as a template.
 
    2. You have to get your work-log approved from your mentor on a weekly
