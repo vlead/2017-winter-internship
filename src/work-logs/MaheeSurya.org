@@ -1,0 +1,17 @@
+#+TITLE: Work Logs of MaheeSurya
+#+AUTHOR: VLEAD
+#+DATE: [2017-11-16 Thu]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+* Introduction
+  All my work logs are collated here.
+
+* Work Log of MaheeSurya
+** Week 1 [2017-11-27 Mon] to [2017-12-03 Sun]
+   + [2017-11-27 Mon] - Worked on the conversion of third experiment from 
+     Colloid and Surface Chemistry lab. 40% of the conversion is completed.
+     The conversion will take two more days.
