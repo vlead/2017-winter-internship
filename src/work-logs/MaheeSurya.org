@@ -15,3 +15,6 @@
    + [2017-11-27 Mon] - Worked on the conversion of third experiment from 
      Colloid and Surface Chemistry lab. 40% of the conversion is completed.
      The conversion will take two more days.
+   + [2017-11-28 Tue] - Worked on the conversion of third experiment from 
+     Colloid and Surface Chemistry lab. 70% of the conversion is completed.
+     Conversion will be completed by tomorrow evening.
