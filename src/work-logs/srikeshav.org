@@ -7,10 +7,10 @@
 
 * Worklogs
 
-**Date: 28-11-17
+** Date: 28-11-17
 1. Got familiar with ADS.
 2. Installed virtual box, vagrant,ads vagrant box.
 
-**Date: 29-11-17
+** Date: 29-11-17
 1. Setup the server with vagrant.
 2. Got familiar with vagrant.
