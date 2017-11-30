@@ -20,3 +20,5 @@
      Conversion will be completed by tomorrow evening.
    + [2017-11-29 Wed] -  Worked on the conversion of third experiment from 
      Colloid and Surface Chemistry lab. The conversion has been completed.
+   + [2017-11-30 Thu] - Worked on fixing issues in Physical chemistry lab 
+     Colloid and Surface Chemistry lab. 
