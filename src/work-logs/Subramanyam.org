@@ -1,0 +1,23 @@
+#+TITLE: Work Logs of Subramanyam
+#+AUTHOR: VLEAD
+#+DATE: [2017-11-29 Wed]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+* Introduction
+  All my work logs are collated here.
+
+* Work Log of Subramanyam
+** Week 1 [2017-11-27 Mon] to [2017-12-03 Sun]
+   [2017-11-27 Mon]
+   - Installed Virtual Labs College Cloud Edition on our laptops.
+   - Went through the installation manual of Virtual Labs College Cloud Edition.
+   - Made an org file report on the installation manual.
+   [2017-11-28 Tue]
+   - Explored the 'onboarding', 'literate-tools' repos of vlead in github.
+   - Explored Process management on dev.vlabs.ac.in.
+   - Explored ds-lab on gitlab.
+
