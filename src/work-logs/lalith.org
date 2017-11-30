@@ -1,0 +1,32 @@
+#+TITLE: Work Logs of all interns
+#+AUTHOR: VLEAD
+#+DATE: [2017-11-16 Thu]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+* Introduction
+  Work log of Appari Lalith.
+
+
+* 27-11-2017
+
+-- Gained some knowledge about vlabs.
+-- Read about VR/AR technology.
+-- Read about version control. Got to know about the work flow in github.
+-- Read about cloud edition of vlabs.
+
+
+* 28-11-2017
+
+- Workshop on College cloud 2.0.
+- Read about virtual boxes.
+- Setting up ADS service in development environment using an existing vagrant box.
+
+
+* 29-11-2017
+
+- Setting ADS environment in local machine and deploying a lab.
+
