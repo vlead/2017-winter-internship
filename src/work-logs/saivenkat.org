@@ -1,0 +1,21 @@
+#+TITLE: Work Logs of all interns
+#+AUTHOR: SaiVenkat
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Worklogs
+
+** 27_11_17
+
+-- Gone through vlabs.ac.in and gained some knowledge about vlabs
+-- Completed the experiment on college cloud server
+-- Feed about the documentation
+
+** 28_11_17
+
+-- Gone through vlabs guidelines and some process managements
+-- Tried to run oath services master branch application on local machine but after
+   wasting much time i have realized that the branch doesn't have the complete code
+-- ADS enviroment setup
