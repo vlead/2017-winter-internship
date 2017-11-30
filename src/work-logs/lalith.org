@@ -13,10 +13,10 @@
 
 * 27-11-2017
 
--- Gained some knowledge about vlabs.
--- Read about VR/AR technology.
--- Read about version control. Got to know about the work flow in github.
--- Read about cloud edition of vlabs.
+- Gained some knowledge about vlabs.
+- Read about VR/AR technology.
+- Read about version control. Got to know about the work flow in github.
+- Read about cloud edition of vlabs.
 
 
 * 28-11-2017
@@ -29,4 +29,5 @@
 * 29-11-2017
 
 - Setting ADS environment in local machine and deploying a lab.
+- Explored the ads environment.
 
