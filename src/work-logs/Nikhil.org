@@ -1,0 +1,21 @@
+#+TITLE: Work Logs of Nikhil
+#+AUTHOR: VLEAD
+#+DATE: [2017-11-30 Thu]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+* Introduction
+  All my work logs are collated here.
+
+* Work Log of Nikhil
+** Week 1 [2017-11-27 Mon] to [2017-12-03 Sun]
+   + [2017-11-27 Mon] - Explored the vlabs.ac.in and got to know about the project
+   + [2017-11-28 Tue] - Worked on installation of college cloud Using given documentation. 
+     Environmental setup has been done. written a report on documentation. Reviewed the files in expt6 of Responsive lab.
+     noticed a small errors like spoon_fill which deviates from beaker.it was corrected by replacing the left(style) to 13% in #spoonfill.
+     exploration of expt6 is done
+   + [2017-11-29 Wed] -  new work(computer organisation lab as been alloted).have got three 3 experiments to review if there are any errors.
+     exp1 as been explored . beautifying of the codes(indentation of html,css,js) as been done .tried finding any errors in the code.exp1 is ready for production
