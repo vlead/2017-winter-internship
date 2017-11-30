@@ -1,4 +1,12 @@
-*Work log of Sri Keshav Kothapalli
+#+TITLE: Work Logs of Sri Keshav Kothapalli
+#+AUTHOR: Sri Keshav
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Worklogs
+
 **Date: 28-11-17
 1. Got familiar with ADS.
 2. Installed virtual box, vagrant,ads vagrant box.
