@@ -20,4 +20,20 @@
    - Explored the 'onboarding', 'literate-tools' repos of vlead in github.
    - Explored Process management on dev.vlabs.ac.in.
    - Explored ds-lab on gitlab.
-
+   [2017-11-29 Wed]
+   - Went through the docs of D3.js.
+   - Explored the implementation for mergesort.
+   - Explored the implementation for insertionsort.
+   - Looked for bugs in mergesort and insertionsort.
+   [2017-11-30 Thu]
+   - Went through the docs of D3.js.
+   - Explored the implementation for heapsort.
+   - Explored the implementation for quicksort.
+   - Looked for bugs in heapsort and quicksort.
+   [2017-12-04 Mon]
+   - On leave.
+   [2017-12-05 Tue]
+   - Added meeting.org file.
+   - Added new branch for my work and removed unnecessary branches.
+   - Created issues and started working on the issues.
+   - Started working on the complexity demonstration implementation.(10% work completed).  
