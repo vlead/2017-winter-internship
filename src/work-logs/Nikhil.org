@@ -19,3 +19,7 @@
      exploration of expt6 is done
    + [2017-11-29 Wed] -  new work(computer organisation lab as been alloted).have got three 3 experiments to review if there are any errors.
      exp1 as been explored . beautifying of the codes(indentation of html,css,js) as been done .tried finding any errors in the code.exp1 is ready for production
+   + [2017-11-30 Thurs] - beautification of codes has been done and noticed small errors but for fixing them i had studied the experiment details and topics and later 
+     understood the code of exp2 
+   + [2017-12-4 Mon] - explored through some topics needed for that experiment(exp2) and couldnt get it with that .tested the experiment and found some errors and tried to fix them.
+     went through issues of physical chemistry lab.
