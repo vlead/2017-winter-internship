@@ -20,6 +20,15 @@
    + [2017-11-29 Wed] -  new work(computer organisation lab as been alloted).have got three 3 experiments to review if there are any errors.
      exp1 as been explored . beautifying of the codes(indentation of html,css,js) as been done .tried finding any errors in the code.exp1 is ready for production
    + [2017-11-30 Thurs] - beautification of codes has been done and noticed small errors but for fixing them i had studied the experiment details and topics and later 
-     understood the code of exp2 
-   + [2017-12-4 Mon] - explored through some topics needed for that experiment(exp2) and couldnt get it with that .tested the experiment and found some errors and tried to fix them.
+     understood the code of exp2
+** Week 2 [2017-12-04 Mon] to [2017-12-08 Fri]
+   + [2017-12-04 Mon] - explored through some topics needed for that experiment(exp2) and couldnt get it with that .tested the experiment and found some errors and tried to fix them.
      went through issues of physical chemistry lab.
+   + [2017-12-05 Tue] - exp2 of computer organisation is completed almost and committed it for testing the labs of exp1,exp2(except the floating part of exp2) of computer organization
+   + [2017-12-06 Wed] - explored through exp9 of computer organization but couldnt get any idea how to implement .explored through the references too but it didnt help me in get the functionality
+     or code of exp9.
+   + [2017-12-07 Thurs] - again tried exploring the same lab upto afternoon but no improvement. issue was informed to mentor.
+   + [2017-12-08 Fri] - Two labs (molecular spectroscopy and molecular flourescense) labs have been alloted to check the problem of the code differing on localserver and production. 
+     have tried solving the problem by exploring in the internet but did not get a correct reason for this.
+** Week 3[2017-12-11 Mon] to [2017-12-15 Fri]
+   + [2017-12-11 Mon] - Alloted to work on College cloud and simultaneously going on the labs issues.college cloud manual have been read. needed requirements are being checked
