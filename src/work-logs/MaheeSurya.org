@@ -22,3 +22,14 @@
      Colloid and Surface Chemistry lab. The conversion has been completed.
    + [2017-11-30 Thu] - Worked on fixing issues in Physical chemistry lab 
      Colloid and Surface Chemistry lab. 
+** Week 2 [2017-12-04 Mon] to [2017-12-10 Sun]
+   + [2017-12-04 Mon] - Worked on fixing issues in Physical chemistry lab.
+   + [2017-12-05 Tue] - Worked on fixing issues in Physical chemistry lab.
+   + [2017-12-06 Wed] - Worked on fixing issues in Physical chemistry lab.
+   + [2017-12-07 Thu] - Worked on fixing issues in Physical chemistry lab 
+     and Colloid and Surface Chemistry lab.
+   + [2017-12-07 Fri] - Worked on fixing issues in Physical chemistry lab 
+     and Colloid and Surface Chemistry lab.
+** Week 3 [2017-12-11 Mon] to [2017-12-17 Sun]
+   + [2017-12-11 Mon] - Started College Cloud project. Went through the 
+     documentation and completed the installation process.
