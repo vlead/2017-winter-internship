@@ -20,3 +20,45 @@
    - Explored the 'onboarding', 'literate-tools' repos of vlead in github.
    - Explored Process management on dev.vlabs.ac.in.
    - Explored linux-lab on gitlab.
+   [2017-11-29 Wed]
+   - Explored the linux-lab on gitlab.
+   - Learning basic of =nodeJS= express frame work.
+   - Learning basic of Socket programming.
+   [2017-11-30 Thu]
+   - Got familiar with express frame work and socket programming.
+   - Explored the design of the linux-lab
+   - Went through the implementation of the linux-lab.
+** Week 2 [2017-12-04 Mon] to [2017-12-10 Sun]
+   [2017-12-04 Mon]
+   - Went through the docs of  =xterm=.
+   - Went through the =node-pty= module.
+   - Looked for bugs in the implementation.
+   [2017-12-05 Tue]
+   - Updated =meeting.org= file.
+   - Worked on seeting up the git repo and created a =winter-intern= branch.
+   - Raised new issues and started working on them.
+   - Added a installation guide on setting up the environment.
+   [2017-12-06 Wed]
+   - Went through =illustrate-literate= repo.
+   - Learned about literate programming.
+   - Converted the current code into Literate Programming
+   [2017-12-07 Thu]
+   - Searched on how to get protection from malicious commands entered by users.
+   - Worked on resource limiting.
+   - Disscused the strategy of allocating new account for each user
+     and give permissions accordingly.
+   [2017-12-08 Fri]
+   - Explored [[dev.vlabs.ac.in][dev.vlabs]]
+   - Started working on publishing the org-mode files to HTML.
+   - Went through the tutorial [[http://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html][org-publish-html-tutorial]].
+   - Got familiar with the org-templates files and components in org.
+** Week 2 [2017-12-11 Mon] to [2017-12-17 Sun]
+   [2017-12-11 Mon]
+   - Went through the =prj.el= file in the =vlabs-dev-pages= and experimented with it.
+   - Went through the =publishl.el= of the =literate-tools=.
+   - Explored the =default= and =readthelab= modes present in the literate-tools.
+   [2017-12-12 Tue]
+   - Implemented =vlead= mode simillar to the other in the literate-tools.
+   - Updated =publish.el= to add header and footer from the header.html
+     and footer.html files if present.
+   - Updated =makefile= to take arguments from the command line.
