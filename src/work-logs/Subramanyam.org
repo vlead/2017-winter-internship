@@ -39,4 +39,31 @@
    - Created issues and started working on the issues.
    - Started working on the complexity demonstration implementation for mergesort.(10% work completed).
    [2017-12-06 Wed]
-   - Started working on the demonstration of mergesort.(30% work completed)  
+   - Had second meeting with mentor and discussed steps on implementing a tutorial for mergesort.
+   - Updated meeting.org file and created new issue for the tutorial.
+   - Made a plan for the implementation of mergesort tutorial and started working on the issue.
+   - Started working on mergesort tutorial.(20% work completed)  
+   [2017-12-07 Thu]
+   - Made suitable changes in the plan for mergesort tutorial and updated plan.org
+   - Completed the demonstration of split and merge of mergesort tutorial.
+   - Started working on the implementation of interactive exercises for merge and split.
+   [2017-12-08 Fri]
+   - Came up with an idea for implementing exercises for the merge and split.
+   - Made a plan for implementation of merge and split exercise.
+   - Started working on the implementation of exercises for merge and split.(100% completed)
+** Week 3 [2017-12-11 Mon] to [2017-12-17 Sun]
+   [2017-12-09 Mon]
+   - Went through D3.js orgs and became familiar with graphs implementation in js.
+   - Came up with an idea for implementing exercises for the mergesort exercise.
+   - Made a plan for implementation of mergesort exercise.
+   - Started working on the implementation of mergesort exercise.(20% work completed).
+   [2017-12-10 Tue]
+   - Went through D3.js orgs for implementation of input tags in svg.
+   - Failed to find such implementation and came up with a different idea for the mergesort exercise.
+   - Worked on the implementation of mergesort exercise(60% work completed).
+   [2017-12-11 Wed]
+   - Worked on the implementation of mergesort exercise(100% work completed).
+   - Came up with an idea for the implementation of time complexity demonstration of mergesort experiment.
+   - Updated plan.org with suitable plan for the mergesort complexity implementation.
+   - Started working on the time complexity implementation of mergesort experiment.
+   [2017-12-12 Thu]
