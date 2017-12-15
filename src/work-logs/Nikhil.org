@@ -31,4 +31,97 @@
    + [2017-12-08 Fri] - Two labs (molecular spectroscopy and molecular flourescense) labs have been alloted to check the problem of the code differing on localserver and production. 
      have tried solving the problem by exploring in the internet but did not get a correct reason for this.
 ** Week 3[2017-12-11 Mon] to [2017-12-15 Fri]
-   + [2017-12-11 Mon] - Alloted to work on College cloud and simultaneously going on the labs issues.college cloud manual have been read. needed requirements are being checked
+*** Day 1[2017-12-11 Mon]
+**** worklogs
+ + Read the college cloud manual(i.e pdf given to us)
+ + Setted the week targets 
+ + Packaging of a js labs is the main target for the week
+ + Installed apache2 on machines for js labs working
+**** Install apache2
+#+BEGIN_SRC : apache2.sh
+sudo apt-get install apache2
+#+END_SRC
+**** Running apache2 server
+#+BEGIN_SRC : apache2.sh
+sudo systemctl start apache2
+#+END_SRC
+**** Stopping apache2 server
+#+BEGIN_SRC : apache2.sh
+sudo systemctl stop apache2
+#+END_SRC
+**** js labs
+ + Got 31 js labs from [[https://gitlab.com/vlead-systems/experiment-server][Experiment-server]]
+ + check the labs by running apache2 server and using url(localhost/lab_id)
+
+*** Day 2[2017-12-12 Tue]
+**** rpm
+ + Many packages have been explored
+ + rpm,deb are kept to be tried
+ + exploration about rpm is done,setup is done from [[https://yannik520.github.io/rpm_on_ubuntu.html][rpm]]
+**** Install rpm
+#+BEGIN_SRC : rpm.sh
+sudo apt install rpm
+#+END_SRC
+**** Create rpm build directory
+#+BEGIN_SRC : rpm.sh
+mkdir ~/rpmbuild
+#+END_SRC
+**** Create SOURCES AND SPECS directories in rpm build directory
+#+BEGIN_SRC : rpm.sh
+mkdir ~/rpmbuild/SOURCES ~/rpmbuild/SPECS
+#+END_SRC
+**** Place the Source of package inside the SOURCES directory
+**** Create a SPEC file in SPECS directory
+**** Create a SPEC file
+#+BEGIN_SRC : rpm.sh
+cd ~/rpmbuild/SPECS
+rpmdev-newspec PackageName
+#+END_SRC
+**** Spec File Template can be seen from rpm link above.
+**** Problems
+ + As OS became a main factor, realized that rpm is for CentOS,FEDORA
+ + As our packaging is for ubuntu 14.04
+ + Realized to go for dpkg(deb) ,sice it is linux and ubuntu
+
+*** Day 3[2017-12-13 Wed]
+**** deb
+ + deb has been explored
+ + exploration is done from [[http://www.king-foo.com/2011/11/creating-debianubuntu-deb-packages/][deb]]
+**** Creating the Package
+#+BEGIN_SRC : deb.sh
+sudo dpkg-deb --build PackageName
+#+END_SRC
+ + This Creates a PackageName.deb file
+ + We can now install on any debain installation with following command
+#+BEGIN_SRC : deb.sh
+sudo dpkg -i PackegeName.deb
+#+END_SRC
+**** Sample Example for creating a package
+***** Creating for hello
+#+BEGIN_EXAMPLE
+mkdir -p hello/DEBIAN
+cd hello/DEBIAN
+touch control
+cd ..
+mkdir-p usr/bin
+cd usr/bin
+vi hello.c
+print hello in that
+gcc hello.c -o hello
+./hello         
+cd
+sudo apt-get install build-essential
+sudo dpkg-deb --build hello/
+sudo dpkg dpkg -i hello.deb
+#+END_EXAMPLE
+**** script of control file
+#+BEGIN_EXAMPLE
+package : hello
+Version : 1.0.1
+Section : base
+Priority : optional
+Architecture : all
+Depends : debcont(>= 0.2.26)
+Maintainer :
+Description :
+#+END_EXAMPLE
