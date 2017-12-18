@@ -17,3 +17,19 @@
    + [2017-12-13 Wed] 
       - Went through all the 'Chemical Sciences' labs in VLABS.
       - Noted down their procedure details over [[https://pastebin.com/r4DEEQVK][here]]
+      
+   + [2017-12-14 Thurs]
+   	  - Fixed a few bugs in lab
+   	  - Added chemicals required for "Molecular Absorption Spectroscopy" lab 
+   	  - Added few functionalities for MAS lab
+   + [2017-12-15 Fri]
+        - Improved pipettes' functionality
+        - Added more data elements in container elements
+        - Implemented element removal
+
+   + [2017-12-18 Mon]
+        - Fixed bugs in lab
+        - Implemented photospectrometer
+        - Updated lab available [[https://github.com/shovan312/lab][here]]
+        - Comparision of this lab with [[http://chemcollective.org/activities/autograded/124][CMU Virtual Lab]] available [[https://pastebin.com/0fqysSxd][here]]
+        - Went through some example CLI based automation tools online
