@@ -130,3 +130,14 @@ Description :
  + explored through many sites for packaging purpose
  + conversion of flash to js are solved at the same time, molecular-spectroscopy and florescence lab were given to fix the errors
  + spectroscopy lab exp2,exp6,exp9 have errors on production.explored through the codes of lab . trying to fix them
+*** Day 5[2017-12-15 Fri]
+ + explored many sites for debian packaging
+ + tried many ways for packaging but couldnt find the packaging similar to which we need for js labs.
+ + tried to fix absorption spectroscopy lab issues by keeping common images at one folder.
+ + as videos in exp2,exp6,exp9 couldnt load in production, tried different ways like other video formats .but resolve the issue
+** Week 4 [2017-12-18 Mon] to [2017-12-22 Fri]
+*** Day 1[2017-12-18 Mon]
+ + debian packaging tutorials have been explored
+ + computer organization lab issues have been raised on testing
+ + 5 issues were raised,5 were solved.
+*** Day 2[2017-12-19 Tue]
