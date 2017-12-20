@@ -10,14 +10,13 @@
   All my work logs are collated here.
 
 * Work Log of Shovan Swain
-** Week 1 [2017-12-12 Tue] to [2017-12-19 Tue]
+** Week 1 [2017-12-12 Tue] to [2017-12-15 Fri]
    + [2017-12-12 Tue] 
       - Went through some virtual labs for references and ideas.
       - Explored React to analyse scope of conversion of lab into React
    + [2017-12-13 Wed] 
       - Went through all the 'Chemical Sciences' labs in VLABS.
       - Noted down their procedure details over [[https://pastebin.com/r4DEEQVK][here]]
-      
    + [2017-12-14 Thurs]
    	  - Fixed a few bugs in lab
    	  - Added chemicals required for "Molecular Absorption Spectroscopy" lab 
@@ -26,10 +25,21 @@
         - Improved pipettes' functionality
         - Added more data elements in container elements
         - Implemented element removal
-
+        
+** Week 2 [2017-12-18 Mon] to [2017-12-22 Fri]
    + [2017-12-18 Mon]
         - Fixed bugs in lab
         - Implemented photospectrometer
         - Updated lab available [[https://github.com/shovan312/lab][here]]
         - Comparision of this lab with [[http://chemcollective.org/activities/autograded/124][CMU Virtual Lab]] available [[https://pastebin.com/0fqysSxd][here]]
         - Went through some example CLI based automation tools online
+        
+   + [2017-12-19 Tues]
+        - Fixed bugs in lab
+        - Went through some node modules. (inquirer, fs, commander, figlet)
+        - Started working on the CLI automation tool
+
+   + [2017-12-20 Wed]
+        - Finished CLI automation tool
+        - Made new [[https://github.com/Virtual-Labs/lab-authoring-tool-iiith][repository]] in "[[https://github.com/Virtual-Labs][Virtual-Labs]]" organisation
+        - Started working on issues in [[https://github.com/integration-team-iiith/physical-chemistry-responsive-lab][Physical Chemistry Lab]]
