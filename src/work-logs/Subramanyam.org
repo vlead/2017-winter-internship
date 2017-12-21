@@ -31,8 +31,6 @@
    - Explored the implementation for quicksort.
    - Looked for bugs in heapsort and quicksort.
 ** Week 2 [2017-12-04 Mon] to [2017-12-10 Sun]
-   [2017-12-04 Mon]
-   - On leave.
    [2017-12-05 Tue]
    - Added meeting.org file.
    - Added new branch for my work and removed unnecessary branches.
