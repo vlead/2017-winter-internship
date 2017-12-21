@@ -141,3 +141,15 @@ Description :
  + computer organization lab issues have been raised on testing
  + 5 issues were raised,5 were solved.
 *** Day 2[2017-12-19 Tue]
+ + tried fixing physical chemistry lab issues
+ + issue reopened were seen.issue have been resolved
+ + have studied the experiments which had issues
+
+*** Day 3[2017-12-20 Wed]
+ + computer organization exp1 is rechecked for any errors 
+ + couldnt founf any mistakes in functionality
+ + so the exp1 is kept in literate tools for documentation purpose
+ + similarly exp2 is rechecked for any errors
+ + exp2 also have kept in documentation
+
+*** Day 4[2017-12-21 Thurs]
