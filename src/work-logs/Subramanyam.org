@@ -86,3 +86,16 @@
    - Improved and added more points in the code narration for =layout10.org=, =layout11.org=, =layout11.org=, =layout12.org=.
    - Improved naming conventions and made some changes(html, css) in all layouts.
    - Looked for bugs in all the layouts and fixed them.
+   [2017-12-21 Thu]
+   - Improved and added more points in the code narration for =layout13.org=, =layout14.org=.
+   - Improved naming convention and (html, css) for all layouts.
+   - Demonstrated mergesort experiment in meeting.
+   - Discussed the steps of implementing Studio for =mergesort= experiment.
+   [2017-12-22 Fri]
+   - Worked on implementing =mergesort complexity graph= for more wider range.
+   - Improved some =scenes= of =mergesort= experiment.
+   - Discussed the steps of providing =services=, =analytics=, =views=, =controls=, =description= implementation for each =scene= of =mergesort= experiment.
+   - Made a =report.org= for =winter-intern 2017=.
+   - Made changes in directly structure and merged the entire =experiment= from =winter-intern-labtheme= branch to =master= branch.
+   - Resolved all merge conflicts and pushed to =master= branch of =ds-lab=.
+   - Added tag =winter-intern 2017= in the master branch.
