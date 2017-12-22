@@ -33,3 +33,37 @@
 ** Week 3 [2017-12-11 Mon] to [2017-12-17 Sun]
    + [2017-12-11 Mon] - Started College Cloud project. Went through the 
      documentation and completed the installation process.
+   + [2017-12-12 Tue] - Started exploring the RPM method of packaging.
+     Installed the required tools. Read a part of the documentation
+     required for package creation using RPM.
+   + [2017-12-13 Wed] - Read some more of the documentation of RPM.
+     Tried to build a demo package. But, required tools couldn't be
+     installed on Ubuntu. So, moved on to debian packaging.
+   + [2017-12-14 Thu] - Started exploring the debian method of packaging.
+     Installed the required tools and tried to build a demo package.
+     Package was successfully built, but it worked for small-scale
+     packages. Tried to explore method for large packages.
+   + [2017-12-15 Fri] - Found the official method for building a package.
+     Tried to build a demo package with it but couldn't identify the
+     location of source package. Later, found another documentation 
+     meant for packaging all kinds of software into debian package.
+     But, couldn't explore much of it since the deadline for deployment
+     of Colloid-and-Surface-Chemistry lab and Physical-Chemistry lab
+     was fast approaching.
+** Week 4 [2017-12-18 Mon] to [2017-12-24 Sun]
+   + [2017-12-18 Mon] - Tried the debian packaging again. Completed 
+     20 pages of the packaging tutorial. Later, got stuck in 
+     writing rules file. Started fixing the some other issues
+     which are reopened in Physical-Chemistry lab.
+   + [2017-12-19 Tue] - Worked on fixing reopened issues in Physical-Chemistry
+     lab.
+   + [2017-12-20 Wed] - Worked on fixing the reopened isssues in Physical-
+     Chemistry lab. Also, worked in fixing the newly opened issues in Colloid
+     and Surface Chemistry lab.
+   + [2017-12-21 Thu] - Worked on fixing the issues in Physical Chemistry lab
+     and Colloid-and-Surface-Chemistry lab. Also, installed the deployment 
+     service for deploying the labs.
+   + [2017-12-22 Fri] - Worked on converting the repository of Colloid-
+     and-Surface-Chemistry lab into deployable format. Tried deploying the
+     lab and fixed the issues which hindered the deployment. Converted 
+     Physical-Chemistry lab into literate format. Fixed some more issues.
