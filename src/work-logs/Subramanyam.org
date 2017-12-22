@@ -31,12 +31,58 @@
    - Explored the implementation for quicksort.
    - Looked for bugs in heapsort and quicksort.
 ** Week 2 [2017-12-04 Mon] to [2017-12-10 Sun]
-   [2017-12-04 Mon]
-   - On leave.
    [2017-12-05 Tue]
    - Added meeting.org file.
    - Added new branch for my work and removed unnecessary branches.
    - Created issues and started working on the issues.
    - Started working on the complexity demonstration implementation for mergesort.(10% work completed).
    [2017-12-06 Wed]
-   - Started working on the demonstration of mergesort.(30% work completed)  
+   - Had second meeting with mentor and discussed steps on implementing a tutorial for mergesort.
+   - Updated meeting.org file and created new issue for the tutorial.
+   - Made a plan for the implementation of mergesort tutorial and started working on the issue.
+   - Started working on mergesort tutorial.(20% work completed)  
+   [2017-12-07 Thu]
+   - Made suitable changes in the plan for mergesort tutorial and updated plan.org
+   - Completed the demonstration of split and merge of mergesort tutorial.
+   - Started working on the implementation of interactive exercises for merge and split.
+   [2017-12-08 Fri]
+   - Came up with an idea for implementing exercises for the merge and split.
+   - Made a plan for implementation of merge and split exercise.
+   - Started working on the implementation of exercises for merge and split.(100% completed)
+** Week 3 [2017-12-11 Mon] to [2017-12-17 Sun]
+   [2017-12-11 Mon]
+   - Went through D3.js orgs and became familiar with graphs implementation in js.
+   - Came up with an idea for implementing exercises for the mergesort exercise.
+   - Made a plan for implementation of mergesort exercise.
+   - Started working on the implementation of mergesort exercise.(20% work completed).
+   [2017-12-12 Tue]
+   - Went through D3.js orgs for implementation of input tags in svg.
+   - Failed to find such implementation and came up with a different idea for the mergesort exercise.
+   - Worked on the implementation of mergesort exercise(60% work completed).
+   [2017-12-13 Wed]
+   - Worked on the implementation of mergesort exercise(100% work completed).
+   - Came up with an idea for the implementation of time complexity demonstration of mergesort experiment.
+   - Updated plan document with suitable plan for the mergesort complexity implementation.
+   - Started working on the time complexity implementation of mergesort experiment.
+   [2017-12-14 Thu]
+   - Made a plan for the demonstration of time complexity of mergesort experiment.
+   - Updated plan document with suitable plan for time complexity implementation.
+   - Started working on time complexity demonstration for mergesort.(25% work completed).
+   [2017-12-15 Fri]
+   - Explored =exp-3-merge-sort-final= for understanding the implementation of mergesort graph.
+   - Made a plan for proving the computation value and formula based value of time complexity are same.
+   - Worked on time complexity demonstration of mergesort.(55% work completed).
+   - Improved and added more points in the code narration for =layout1.org=, =layout2.org=, =layout3.org=.
+** Week 4 [2017-12-18 Mon] to [2017-12-22 Fri]
+   [2017-12-18 Mon]
+   - Worked on time complexity demonstration of mergesort.(80% work completed).
+   - Made a plan for showing the plot of mergesort and comparison plot for various sorting algorithms.
+   - Improved and added more points in the code narration for =layout4.org=, =layout5.org=, =layout6.org=.
+   [2017-12-19 Tue]
+   - Worked on time complexity demonstration of mergesort.(100% work completed).
+   - Added =README.org= for mergesort experiment.
+   - Improved and added more points in the code narration for =layout7.org=, =layout8.org=, =layout9.org=, =layou14.org=.
+   [2017-12-20 Wed]
+   - Improved and added more points in the code narration for =layout10.org=, =layout11.org=, =layout11.org=, =layout12.org=.
+   - Improved naming conventions and made some changes(html, css) in all layouts.
+   - Looked for bugs in all the layouts and fixed them.
