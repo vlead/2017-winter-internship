@@ -1,0 +1,64 @@
+#+TITLE: Report of Winter Intern by Subramanyam
+#+AUTHOR: VLEAD
+#+DATE: [2017-12-22 Fri]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+* Introduction
+  This report contains all work done in the span of =27-11-17= to =22-12-17= .
+
+* Objectives
+** Install Virtual Labs College Cloud Edition on machine
+- Install Virtual Labs College Cloud Edition using the installation manual.
+- Make a report on the installation manual suggesting improvements.
+
+** Exploring =Onboarding=, =Literate-tools=, =Process Management= in =dev.vlabs.ac.in=
+- Explore Onboarding and Literate-tools and process management in dev.vlabs.ac.in 
+  repositories in VLEAD.
+
+** Make a tutorial on =MergeSort= experiment of =DataStructures= lab
+- Make a tutorial on MergeSort experiment.
+- Explain in detail the subparts of MergeSort - split, merge.
+- Add interactive exercises in the MergeSort experiment for the user.
+
+** Demonstrate the time complexity of =MergeSort= experiment
+- Derive the time complexity of MergeSort experiment.
+- Give an example of MergeSort graph and find the number of computations for sorting.
+- Prove the computation value is same as the value based on time complexity.
+- Plot a graph of MergeSort time complexity.
+
+* Project repositories
+** Data-structures lab.
+- The repository can be found [[https://gitlab.com/vxc-research/ds-lab][here]]
+- The files are present in =master= branch.
+
+* Outcome of Internship
+** Installed Virtual Labs College Cloud Edition on my machine
+- Installed Virtual Labs College Cloud Edition on our machine.
+- Performed all the steps present in the instruction manual.
+- Made a report on the instruction manual.
+
+** Explored =Onboarding=, =Literate-tools= and =dev.vlabs.ac.in=
+- Went through the repositories of onboarding, literate-tools, dev.vlabs.ac.in.
+   
+** Made a tutorial for =MergeSort= experiment
+- Made a plan for the tutorial of =MergeSort= experiment.
+- Implemented interactive exercises for =Merge= and =Split= subparts of =MergeSort= experiment.
+- Implemented interactive exercises for =MergeSort= experiment.
+- Explained the subparts =split= and =merge= of MergeSort experiment.
+
+** Worked on the demonstration of time complexity of =MergeSort= experiment.
+- Explained and computed the time complexity of =MergeSort= subparts =split= and =merge=.
+- Showed that the complexity of =MergeSort= Algorithm is nlogn.
+- Proved that the number of computations for some array using =MergeSort= Algorithm
+  is same as the formula.
+- Plotted the graph of =MergeSort= algorithm time complexity.
+- Compared various sorting algorithms using time complexity graph.
+
+* Conclusion
+- I thank VLEAD for a wonderful experience again as an Intern.
+- I have learned a lot in this intern period.
+- I hope that I have contributed positively to the organization. 
