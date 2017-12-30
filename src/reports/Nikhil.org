@@ -1,0 +1,75 @@
+#+TITLE: Report of Winter Intern
+#+AUTHOR: VLEAD
+#+DATE: [2017-12-22 Fri]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+* Introduction
+  This report contains all work done in =27-11-17= to =22-12-17= .
+
+* Objectives
+** Convert an Experiment in Computer organization responsive lab
+   Experiment 1,2 present in Computer organization responsive lab is tested
+   for functionality errors and beautification of lab with respect to original present in flash 
+
+** Fix the issues in Physical Chemistry Responsive lab
+   There were 69 issues in Physical Chemistry Responsive lab which needed to
+   be fixed in order to be deployed.
+
+** Fix the freshly created issues in Computer organization responsive lab
+   The Computer organization lab had issues which were created while
+   testing the lab. Needed to fix them to deploy the lab at the end of the 
+   intern period.
+
+** Create documentation for packaging the College Cloud
+   The College Cloud needed to packaged into feasible format like RPM or
+   DEB. So, needed to explore the different methods and create corresponding 
+   documentation.
+
+** Deploy the Computer organization responsive lab
+   Needed to deploy the Computer organization responsive lab after fixing all the
+   issues in it.
+
+* Project repositories
+** Computer organization responsive lab
+   The repository can be found [[https://github.com/nikhil3435/computer-organization][here]].
+
+** Physical Chemistry lab
+   The repository can be found [[https://github.com/integration-team-iiith/physical-chemistry-responsive-lab][here]].
+
+** College Cloud Documentation
+   The repository can be found [[https://github.com/nikhil3435/College-Cloud-Documentation][here]].
+
+* Outcome of Internship
+** Conversion of Experiment in Computer organization responsive lab
+   The Experiment 1,2 of Computer organization responsive lab is 
+   successfullly converted into JavaScript from Flash. It took
+   9 days for the testing and fixing some errors in the 
+   Experiment and making changes to look as original
+
+** Fixing issues of Physical Chemistry Responsive lab
+   Fixed 6 issues present the Physical-Chemistry-Responsive
+   lab.
+   
+** Fixing freshly created issues of Computer organization lab
+   Fixed the 12 issues present in the Computer organization lab.
+   Lab ready for deployment.
+
+** Documentation for packaging of College Cloud
+   Documented the packaging methods of College Cloud into RPM and DEB format.
+   Creating a repository for it and also added the packaging tutorial for
+   debian packaging. 
+   The documentation can be found at this [[https://github.com/blazingeagle1002/College-Cloud-Documentation][link]].
+
+** Deployment of Colloid and Surface Chemistry
+   The Colloid and Surface Chemistry is ready for deployment. All the
+   issues have been fixed. Also, deployed on my local machine using 
+   the deployment service(ADS). The lab worked well without errors on the
+   machine.
+* Conclusion
+  I thank VLEAD for a wonderful experience again as an Intern.
+  I have learned a lot in this intern period. I hope that I have 
+  contributed positively to the organization. 
