@@ -52,7 +52,7 @@
    - Started working on publishing the org-mode files to HTML.
    - Went through the tutorial [[http://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html][org-publish-html-tutorial]].
    - Got familiar with the org-templates files and components in org.
-** Week 2 [2017-12-11 Mon] to [2017-12-17 Sun]
+** Week 3 [2017-12-11 Mon] to [2017-12-17 Sun]
    [2017-12-11 Mon]
    - Went through the =prj.el= file in the =vlabs-dev-pages= and experimented with it.
    - Went through the =publishl.el= of the =literate-tools=.
@@ -62,3 +62,34 @@
    - Updated =publish.el= to add header and footer from the header.html
      and footer.html files if present.
    - Updated =makefile= to take arguments from the command line.
+   [2017-12-13 Wed]
+   - Explored ways to include the contents of the header dynamically.
+   - Went throught the other themes that were implemented on github.
+   [2017-12-14 Thu]
+   - Explored =sitemap.org= to get contents of the directory structure present.
+   - Tried to include the =sitemap.org= through the org templates.
+   - Included just the contents of the sitemap in every file and modified =publish.el=.
+   [2017-12-15 Fri]
+   - Using =Javascript=, =jquery= modified the classes of the sitemap contents to get
+     the required styling to the top navigation bar.
+
+** Week 4 [2017-12-18 Mon] to [2017-12-22 Sun]
+   [2017-12-18 Mon]
+   - Using =Javascript=, =jquery= modified the classes of the sitemap contents to get
+     the required styling to the bottom navigation bar.
+   [2017-12-19 Tue]
+   - Explored ways to make the top navigation bar to support multiple levels.
+   - Modified the top navigation bar to support multiple levels without styling.
+   [2017-12-20 Wed]
+   - Added the required styling to the top navigation bar.
+   - Modifed the bottom navigation bar to show 1-level directory structure.
+   - Configured and added the =disqus= to include on all the pages.
+   [2017-12-21 Thu]
+   - Converted the literate-tools into =literate= style.
+   - Added documentation to the changes made in the =documenting-literate-tools= repo.
+   [2017-12-22 Fri]
+   - Getting the required contents from =sitemap.html= instead of including them in
+     every org file.
+   - Modified =makefile= to get the git source link.
+   - Fixed the =Edit on Github= Link.
+   - Made pull request and merged into the =master= branch of upstream.
