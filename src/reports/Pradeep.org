@@ -1,0 +1,64 @@
+#+TITLE: Report of Winter Intern by Pradeep
+#+AUTHOR: VLEAD
+#+DATE: [2017-12-22 Fri]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+* Introduction
+  This report contains all work done in the span of =27-11-17= to =22-12-17= .
+
+* Objectives
+** Install Virtual Labs College Cloud Edition on machine
+- Install Virtual Labs College Cloud Edition using the installation manual.
+- Make a report on the installation manual suggesting improvements.
+
+** Exploring =Onboarding=, =Literate-tools=, =Process Management= in =dev.vlabs.ac.in=
+- Explore Onboarding and Literate-tools and process management in dev.vlabs.ac.in 
+  repositories in VLEAD.
+** Convert the =Linux Lab= to Literate Style.
+- Convert the Linux Lab to the literate programming style.
+** Add a new theme in the =Literate tools=
+- Add a new theme =labtheme= to the literate tools.
+- The theme should be based on the =dev.vlabs.ac.in= which should contain
+  a top and bottom navigation bar which should display the structure of files present.
+- The top navigation bar should support multiple level directory structure.
+- The bottom navigation bar should display the top level directory structure.
+- Configure and include the discussion forum provided by the =disqus= in the theme.
+
+* Project repositories
+** Literate Tools
+- The repository can be found [[https://github.com/vlead/literate-tools][here]]
+- The changes are merged into the =master= branch.
+
+** Documenting Literate Tools
+- The repository can be found [[https://github.com/vlead/build-literate-tools][here]]
+- The changes are merged into the =master= branch.
+
+* Outcome of Internship
+** Installed Virtual Labs College Cloud Edition on my machine
+- Installed Virtual Labs College Cloud Edition on our machine.
+- Performed all the steps present in the instruction manual.
+- Made a report on the instruction manual.
+
+** Explored =Onboarding=, =Literate-tools= and =dev.vlabs.ac.in=
+- Went through the repositories of onboarding, literate-tools, dev.vlabs.ac.in.
+
+** Added a new theme in the =Literate tools=
+- Added a new theme =labtheme= to the literate tools.
+- The theme is based on the =dev.vlabs.ac.in= which should contain a top and 
+  bottom navigation bar which should display the structure of files present.
+- The top navigation bar support's multiple level directory structure.
+- The bottom navigation bar display's the top level directory structure.
+- Included the discussion forum provided by the =disqus= in the theme.
+- Modifed the =Edit on Github= link to the correct address.
+
+** Document the =Literate tools=
+- Documented the changes made to add the =labtheme= by converting 
+  it into literate style.
+* Conclusion
+- I thank VLEAD for a wonderful experience again as an Intern.
+- I have learned a lot in this intern period.
+- I hope that I have contributed positively to the organization. 
